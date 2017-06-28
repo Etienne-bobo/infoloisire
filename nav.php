@@ -19,8 +19,8 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="top-navbar-1">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#what-we-do">Nos prestations</a></li>
-        <li><a href="#portfolio">Nos tarifs</a></li>
+        <li><a href="prestation.php">Nos prestations</a></li>
+        <li><a href="tarif.php">Nos tarifs</a></li>
         <li><a href="contact.php">Contact</a></li>
       </ul>
     </div>

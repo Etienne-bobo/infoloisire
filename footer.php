@@ -4,9 +4,6 @@
   <div class="container">
     <div class="row">
       <div class="col-sm-12">
-        <div class="scroll-to-top">
-          <a href="#"><i class="fa fa-chevron-up"></i></a>
-        </div>
       </div>
     </div>
       <div class="row">

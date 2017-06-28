@@ -33,6 +33,17 @@
     <body>
 <?php include 'nav.php'; ?>
 
+<!-- Page title -->
+<div class="page-title top-content">
+    <div class="page-title-text wow fadeInUp">
+      <h1>Bienvenue sur infoloisire</h1>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis interdum ligula a lacus pellentesque, non varius lacus tincidunt. In eu. </p>
+      <div class="page-title-bottom-link">
+        <a href="prestation.php">Prestation</a>
+        <a href="contact.php">Contactez-nous</a>
+      </div>
+    </div>
+</div>
 
 <?php include 'footer.php'; ?>
     </body>
