@@ -14,17 +14,14 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">Lancar - Bootstrap One-Page Portfolio Template</a>
+      <a class="navbar-brand" href="index.php">InfoLoisire</a>
     </div>
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="top-navbar-1">
       <ul class="nav navbar-nav navbar-right">
-        <li><a class="scroll-link" href="#top-content">Top</a></li>
-        <li><a class="scroll-link" href="#what-we-do">Services</a></li>
-        <li><a class="scroll-link" href="#portfolio">Portfolio</a></li>
-        <li><a class="scroll-link" href="#pricing-2">Prices</a></li>
-        <li><a class="scroll-link" href="#about">About</a></li>
-        <li><a class="scroll-link" href="#contact">Contact</a></li>
+        <li><a href="#what-we-do">Nos prestations</a></li>
+        <li><a href="#portfolio">Nos tarifs</a></li>
+        <li><a href="contact.php">Contact</a></li>
       </ul>
     </div>
   </div>

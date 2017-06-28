@@ -11,14 +11,12 @@
     </div>
       <div class="row">
             <div class="col-sm-7 footer-copyright">
-              &copy; Lancar Bootstrap Template by <a href="http://azmind.com/free-bootstrap-themes-templates/">Azmind</a>.
+              &copy; Bootstrap Template and code by <a href="http://raisemind.pw">RaiseMind</a>.
             </div>
             <div class="col-sm-5 footer-social">
               <a href="#"><i class="fa fa-facebook"></i></a>
-            <a href="#"><i class="fa fa-dribbble"></i></a>
               <a href="#"><i class="fa fa-twitter"></i></a>
               <a href="#"><i class="fa fa-google-plus"></i></a>
-              <a href="#"><i class="fa fa-pinterest"></i></a>
             </div>
       </div>
   </div>
