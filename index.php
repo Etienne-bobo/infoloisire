@@ -44,7 +44,19 @@
       </div>
     </div>
 </div>
-
+<!-- What we do -->
+      <div class="container">
+          <div class="row">
+              <div class="col-sm-12 block-3 section-description wow fadeIn">
+                  <h2>What we do</h2>
+                  <div class="divider-1 wow fadeInUp"><span></span></div>
+                  <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+                    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.
+                  </p>
+              </div>
+          </div>
+        </div>
 <?php include 'footer.php'; ?>
     </body>
 
