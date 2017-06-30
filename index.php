@@ -37,7 +37,11 @@
 <div class="page-title top-content">
     <div class="page-title-text wow fadeInUp">
       <h1>Bienvenue sur infoloisire</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis interdum ligula a lacus pellentesque, non varius lacus tincidunt. In eu. </p>
+      <p>
+        Infoloisir est une micro entreprise que j'ai fondée pour pouvoir facturer ce que j'ai
+        fait toute ma vie gratuitement <br>: Aider les gens en informatique.
+
+      </p>
       <div class="page-title-bottom-link">
         <a class="big-link-2 btn" href="prestation.php">Prestation</a>
         <a class="big-link-2 btn scroll-link" href="#what-we-do">En apprendre plus</a>
@@ -52,10 +56,6 @@
                   <h2>What we do</h2>
                   <div class="divider-1 wow fadeInUp"><span></span></div>
                   <p>
-
-Infoloisir est une micro entreprise que j'ai fondée pour pouvoir facturer ce que j'ai
-fait toute ma vie gratuitement : Aider les gens en informatique.
-
 Je ne parle pas seulement de dépanage, mais aussi d'installations de systèmes de loisirs
 ou de sauvegardes de leurs informations (Voir la page des services proposés).
 
@@ -91,7 +91,7 @@ qui suivent.
 Dans le cas contraire, je vous expliquerai pourquoi je ne pourrai pas vous aider.
 Un exemple réccurant concerne les demandes de formations à la suite Office de Microsoft.
 Je suis passioné d'informatique. Utiliser un traitement de texte n'est pas
-"faire de l'informatique". C'est de la bureautique. Et cela n'a absolument rien à voir 
+"faire de l'informatique". C'est de la bureautique. Et cela n'a absolument rien à voir
                   </p>
               </div>
           </div>
